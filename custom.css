@@ -1,0 +1,47 @@
+*{box-sizing: border-box;}
+
+body{
+    margin: 0px;
+}
+
+.textbox{
+    margin-top: 50px;
+    text-align: center;
+}
+
+input{
+    width: 15%;
+    border-radius: 5px;
+}
+
+.buttons{
+    margin-top: 20px;
+    margin-bottom: 25px;
+    text-align: center;
+    
+}
+
+button{
+    margin-right: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+ul{
+    text-align: center;
+    font-size: 20px;
+}
+
+ul li{
+    margin: 0 auto;
+    width: 25%;
+    list-style: none;
+}
+
+.change{
+    color: blue !important;    
+}
+
+.highlight{
+    color: red;
+}
